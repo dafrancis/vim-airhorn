@@ -65,7 +65,7 @@ Not quite. You need the following:
 
 ## Why the full screen message calling me a dingus? Isn't sound enough?
 
-At first I thought yes, but then I realised that I wnated to discourage people
+At first I thought yes, but then I realised that I wanted to discourage people
 and I thought a visual (and intrusive) discouragement would help with that.
 You're welcome.
 
